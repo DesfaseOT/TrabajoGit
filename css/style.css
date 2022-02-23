@@ -9,8 +9,21 @@ body{
 .subtitulo{
     color: aliceblue;
     margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .correo{
     color: aliceblue;
+}
+
+.footer{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.margen{
+    margin-bottom: 5rem;
 }
