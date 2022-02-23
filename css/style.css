@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(44, 44, 44);
+}
+
+.carrusel{
+    margin-top: 5rem;
+}
+
+.subtitulo{
+    color: aliceblue;
+    margin-top: 2rem;
+}
+
+.correo{
+    color: aliceblue;
+}
