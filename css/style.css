@@ -10,6 +10,7 @@ body{
     color: aliceblue;
     margin-top: 2rem;
     margin-bottom: 2rem ;
+    margin-left: 16rem;
 }
 
 .correo{
@@ -27,3 +28,4 @@ body{
 .margen{
     margin-bottom: 5rem;
 }
+
